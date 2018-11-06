@@ -9,4 +9,4 @@ This modeling method has the advantages of fast modeling speed and relatively ac
 Once the preprocessed data is input into this RVFLNN for training, the metro station thermal environment model will be quickly established. 
 The study results show that the thermal model based on the RVFLNN method can effectively predict the temperature inside the metro station.
 
-详情可见我的论文
+详情可见我的论文algorithms-285450-review.pdf
